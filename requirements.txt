@@ -1,1 +1,2 @@
 ## Please list additional packages with version numbers
+seaborn==1.5.2
