@@ -1,8 +1,52 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> PfF-1
+# Python For Finance: First Steps
+
+![Powered by Jupyter Logo](https://cdn.oreillystatic.com/images/icons/powered_by_jupyter.png)
+
+This project contains the Jupyter Notebooks and supporting files for _Python For Finance: First Steps_ with Abdullah Karasan. 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> Python for Finance-II
+>>>>>>> Python for Finance-II
+>>>>>>> Python for Finance-II
+>>>>>>> Python for Finance-II
+>>>>>>> Python for Finance-II
 # Python For Finance: Next Steps
 
 ![Powered by Jupyter Logo](https://cdn.oreillystatic.com/images/icons/powered_by_jupyter.png)
 
 This project contains the Jupyter Notebooks and supporting files for _Python For Finance: Next Steps_ with Abdullah Karasan. 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> PfF-1
+>>>>>>> PfF-1
+>>>>>>> Python for Finance-II
+>>>>>>> Python for Finance-II
+>>>>>>> Python for Finance-II
+>>>>>>> Python for Finance-II
+>>>>>>> Python for Finance-II
 
 These notebooks can be run on the O'Reilly Learning Platform [here](https://learning.oreilly.com/jupyter-notebooks/~/${NOTEBOOK_FPID}).
 
@@ -12,4 +56,32 @@ This is a public repository so there is no need to create an account to download
 
 To download via git from your preferred terminal application, type:
 
+<<<<<<< HEAD
 ```git clone https://resources.oreilly.com/binderhub/python-for-finance-next-steps-course```
+=======
+<<<<<<< HEAD
+```git clone https://resources.oreilly.com/binderhub/python-for-finance-next-steps-course```
+=======
+<<<<<<< HEAD
+```git clone https://resources.oreilly.com/binderhub/python-for-finance-next-steps-course```
+=======
+<<<<<<< HEAD
+```git clone https://resources.oreilly.com/binderhub/python-for-finance-next-steps-course```
+=======
+<<<<<<< HEAD
+```git clone https://resources.oreilly.com/binderhub/python-for-finance-next-steps-course```
+=======
+<<<<<<< HEAD
+```git clone https://resources.oreilly.com/binderhub/python-for-finance-first-steps-course```
+=======
+<<<<<<< HEAD
+```git clone https://resources.oreilly.com/binderhub/python-for-finance-first-steps-course```
+=======
+```git clone https://resources.oreilly.com/binderhub/python-for-finance-next-steps-course```
+>>>>>>> PfF-1
+>>>>>>> PfF-1
+>>>>>>> Python for Finance-II
+>>>>>>> Python for Finance-II
+>>>>>>> Python for Finance-II
+>>>>>>> Python for Finance-II
+>>>>>>> Python for Finance-II

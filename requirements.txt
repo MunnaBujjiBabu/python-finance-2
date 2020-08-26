@@ -1,2 +1,21 @@
 ## Please list additional packages with version numbers
+<<<<<<< HEAD
 seaborn==1.5.2
+=======
+<<<<<<< HEAD
+seaborn==1.5.2
+=======
+<<<<<<< HEAD
+seaborn==1.5.2
+=======
+<<<<<<< HEAD
+seaborn==1.5.2
+=======
+<<<<<<< HEAD
+seaborn==1.5.2
+=======
+>>>>>>> Python for Finance-II
+>>>>>>> Python for Finance-II
+>>>>>>> Python for Finance-II
+>>>>>>> Python for Finance-II
+>>>>>>> Python for Finance-II
