@@ -11,4 +11,4 @@ world_bank_data
 wrds==3.0.8
 yfinance==0.1.45
 option==0.2.0
-pypfopt==1.2.5
+pyportfolioopt==1.2.5
