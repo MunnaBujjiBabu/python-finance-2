@@ -10,5 +10,5 @@ statsmodels==0.11.1
 world_bank_data
 wrds==3.0.8
 yfinance==0.1.45
-option==0.1.9
-pypfopt==1.2.4
+option==0.2.0
+pypfopt==1.2.5
